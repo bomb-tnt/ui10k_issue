@@ -1,0 +1,11 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 🌐 ui10k Live Website / 在线网站
+    url: https://ui10k.looptheworld.cloud/
+    about: Browse the 10,000 component specimens across 74 brand design systems. 在线浏览 74 个品牌设计系统中的 10,000 个组件示例。
+  - name: 📖 REST API reference (OpenAPI)
+    url: https://ui10k.looptheworld.cloud/api/v1/openapi.json
+    about: Machine-readable spec for all /api/v1 endpoints. 所有 API 端点的机器可读规范。
+  - name: 🔎 Search the dataset before reporting 报告前先搜索数据集
+    url: https://ui10k.looptheworld.cloud/browse
+    about: Use Browse/filter to find the exact entry id for your report. 使用浏览与筛选功能找到需要报告的条目 ID。
